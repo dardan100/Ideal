@@ -1,9 +1,9 @@
 {
-  "name": "idealproject",
+  "name": "Ideal",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dardan100.github.io/idealproject",
+  "homepage": "https://dardan100.github.io/Ideal",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
