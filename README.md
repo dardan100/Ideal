@@ -1,3 +1,1 @@
-"# Ideal" 
-"# project" 
 "# project" 
