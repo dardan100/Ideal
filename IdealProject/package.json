@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dardan100.github.io/Ideal",
+  "homepage": "https://dardan100.github.io/idealproject",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },

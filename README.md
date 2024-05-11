@@ -1,1 +1,1 @@
-"# project-for-ideal" 
+"# idealProject" 
